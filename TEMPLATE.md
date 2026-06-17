@@ -145,5 +145,4 @@ My ambition extends beyond software engineering. While I aim to establish myself
 
 <img
     src="https://mulearn.org/embed/rank/fahadbinhashim@mulearn"
-    width="900px">
-</img>
+    width="400px">
